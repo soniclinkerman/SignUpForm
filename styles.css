@@ -52,8 +52,8 @@ h2 {
     order: -1;
     margin: 0;
     letter-spacing: 2px;
-    border-top: 5px solid #F18119;
     border-image: linear-gradient(to left, #FF713B, #FFA51D) 1;
+    border-top: 5px solid #F18119;
 }
 
 
